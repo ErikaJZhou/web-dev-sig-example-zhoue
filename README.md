@@ -1,6 +1,8 @@
 # web-dev-sig-example-zhoue
 *About page for MCA Web Dev SIG. Made following Mozilla Developer Network "Getting started with the web" tutorial.*
 
+**Link to website:** https://erikajzhou.github.io/web-dev-sig-example-zhoue/
+
 Example simple website made with the Web Development Special Interest Group (SIG). 
 The topic is an About page for the Mizzou Computing Association Web Development Special Interest Group.
 
